@@ -16,6 +16,7 @@ function App() {
   return (
     <ChakraProvider theme={theme}>
       <div>New Branch</div>
+      <div>New Test Branch</div>
     </ChakraProvider>
   );
 }
