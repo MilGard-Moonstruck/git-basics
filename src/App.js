@@ -15,7 +15,7 @@ import { Logo } from './Logo';
 function App() {
   return (
     <ChakraProvider theme={theme}>
-      <div>New Code</div>
+      <div>New Branch</div>
     </ChakraProvider>
   );
 }
